@@ -22,7 +22,7 @@ A clean and functional Telegram bot built with **Node.js** and the **Telegraf.js
 1. **Clone the repository:**
 
 ```bash
-git clone [https://github.com/your-username/AlisaTelegrafNode_Bot.git](https://github.com/your-username/AlisaTelegrafNode_Bot.git)
+git clone [https://github.com/AlirezaSaberian/TelegramBot_NodeJS_Telegraf.git](https://github.com/AlirezaSaberian/TelegramBot_NodeJS_Telegraf.git)
 cd AlisaTelegrafNode_Bot
 ```
 
